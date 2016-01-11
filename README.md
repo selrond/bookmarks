@@ -1,6 +1,15 @@
 # My amazing bookmarks
-A collection of the most useful websites I came across on the web.
+Hey there!
+This is a collection of the most useful websites I came across on the web.
+And not only "came across", but these were (and still are) really valuable to me.
+
 ## Design
++ **Learning**
+	+ General
+		+ [HackDesign](https://hackdesign.org/) - Great and thorough resource for learning design, must-check.
+		+ [How to become a designer without going to design school](http://www.karenx.com/blog/how-to-become-a-designer-without-going-to-design-school/) - Quite helpful guide (or roadmap if you want) on how to become a designer.
+	+ Tools
+		
 
 
 ### License
